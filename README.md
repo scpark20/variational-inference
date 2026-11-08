@@ -36,3 +36,16 @@ The notebooks record Python 3.6.3 in their metadata and retain their original sa
 Christopher M. Bishop, [*Pattern Recognition and Machine Learning*](https://www.microsoft.com/en-us/research/people/cmbishop/#!prml-book).
 
 This repository includes the [GNU General Public License v3.0](LICENSE).
+
+<details>
+<summary>Full project notes</summary>
+
+<!-- preserved-project-notes:start -->
+# variational-inference
+Implementations of examples in PRML (Pattern Recognition and Machine Learning)
+
+https://www.microsoft.com/en-us/research/people/cmbishop/#!prml-book
+
+<!-- preserved-project-notes:end -->
+
+</details>
